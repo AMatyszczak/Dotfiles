@@ -2,7 +2,7 @@
 
 - Operating System: Arch Linux
 - Window Manager: Hyprland
-- Status Bar: Waybar
+- Status Bar: Waybar https://github.com/sejjy/mechabar
 - Terminal: Kitty
 - Launcher: rofi
 - Browser: Brave
