@@ -16,3 +16,14 @@
 - Lockscreen: [hyprlock](https://wiki.hypr.land/Hypr-Ecosystem/hyprlock/)
 - Idle daemon: [hypridle](https://wiki.hypr.land/Hypr-Ecosystem/hypridle/)
 - Fonts: https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono
+
+
+# Commands:
+```console
+pacman -S yay
+yay -S stow
+
+yay -S waybar
+yay -S rofi
+yay -S hyprpaper
+```
