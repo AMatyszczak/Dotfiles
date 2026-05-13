@@ -38,6 +38,8 @@ yay -S oh-my-zsh-git
 //-- Set ZSH default
 chsh -s /usr/bin/zsh rifqilub
 //--
+git config --global core.editor "nvim"
+
 yay -S discord
 yay -S fzf
 
