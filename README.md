@@ -26,4 +26,27 @@ yay -S stow
 yay -S waybar
 yay -S rofi
 yay -S hyprpaper
+yay -S nvim
+yay -S swaync
+
+stow waybar
+stow rofi
+stow hyprpaper
+stow nvim
+
+yay -S oh-my-zsh-git
+//-- Set ZSH default
+chsh -s /usr/bin/zsh rifqilub
+//--
+yay -S discord
+yay -S fzf
+
+yay -S lsof
+yay -S spotify-launcher
+
+//-- Needed for waybar
+yay -S gnome-calendar
+yay -S brave
+//--
+
 ```
