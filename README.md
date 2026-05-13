@@ -35,14 +35,8 @@ stow hyprpaper
 stow nvim
 
 yay -S oh-my-zsh-git
-//-- Set ZSH default
-chsh -s /usr/bin/zsh rifqilub
-//--
-git config --global core.editor "nvim"
-
 yay -S discord
 yay -S fzf
-
 yay -S lsof
 yay -S spotify-launcher
 
@@ -51,4 +45,10 @@ yay -S gnome-calendar
 yay -S brave
 //--
 
+//-- Set ZSH default
+chsh -s /usr/bin/zsh rifqilub
+//--
+//-- Set Nvim as github editor
+git config --global core.editor "nvim"
+//--
 ```
