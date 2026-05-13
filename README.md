@@ -45,10 +45,10 @@ yay -S gnome-calendar
 yay -S brave
 //--
 
-//-- Set ZSH default
+// Set ZSH default
 chsh -s /usr/bin/zsh rifqilub
-//--
-//-- Set Nvim as github editor
+
+// Set Nvim as github editor
 git config --global core.editor "nvim"
-//--
+
 ```
