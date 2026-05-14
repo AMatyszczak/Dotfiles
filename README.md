@@ -58,4 +58,9 @@ chsh -s /usr/bin/zsh rifqilub
 // Set Nvim as github editor
 git config --global core.editor "nvim"
 
+
+// Set Correct booting with
+sudo efibootmgr
+sudo efibootmgr -o XXXX,YYYY
+
 ```
