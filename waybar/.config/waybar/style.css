@@ -108,6 +108,17 @@ button:hover {
     }
 }
 
+#network {
+   padding: 2 5 0 0;
+   font-size: 1.2em;
+}
+
+#custom-power {
+   font-size: 1.5em;
+   padding: 2 15 0 0;
+   margin: 0;
+}
+
 #custom-spotify {
     color: #FFBC6B;   /* spotify color: #1DB954 */
     padding: 0 10px;
