@@ -63,4 +63,7 @@ git config --global core.editor "nvim"
 sudo efibootmgr
 sudo efibootmgr -o XXXX,YYYY
 
+//BAR
+yay -S sdl2 fuse2 openal gtk3 alsa-lib nss binutils
+
 ```
