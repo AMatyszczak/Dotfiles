@@ -69,4 +69,10 @@ yay -S sdl2 fuse2 openal gtk3 alsa-lib nss binutils
 yay -S docker
 yay -S rofi-calc
 yay -S ollama
+yay -S ttf-font-awesome
+yay -S blueman
+yay -S network-manager-applet
+yay -S obsidian
+yay -S onlyoffice-bin
+yay -S opensnitch
 ```
