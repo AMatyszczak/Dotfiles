@@ -3,7 +3,8 @@
     "format": "{icon} {windows}",
     "on-click": "activate",
     "persistent-workspaces": {
-      "*": 5
+      "DP-1": [1, 2, 3, 4],
+      "DP-2": [5]
     },
     "window-rewrite-default": "󰊠",
     "window-rewrite": {
@@ -51,6 +52,6 @@
       "empty": ""
     },
     "show-special": true,
-    "all-outputs": true
+    "all-outputs": false
   }
 }
