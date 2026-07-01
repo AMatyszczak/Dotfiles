@@ -2,7 +2,7 @@
 
 - Operating System: Arch Linux
 - Window Manager: Hyprland
-- Status Bar: Waybar
+- Status Bar: Waybar https://github.com/haikal-hakim/athena/tree/main
 - Terminal: Kitty
 - Launcher: rofi
 - Browser: Brave
@@ -16,6 +16,7 @@
 - Lockscreen: [hyprlock](https://wiki.hypr.land/Hypr-Ecosystem/hyprlock/)
 - Idle daemon: [hypridle](https://wiki.hypr.land/Hypr-Ecosystem/hypridle/)
 - Fonts: https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono
+- SDDM (login manager) https://github.com/catppuccin/sddm
 
 
 # Commands:
