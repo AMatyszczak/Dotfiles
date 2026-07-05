@@ -76,4 +76,9 @@ yay -S network-manager-applet
 yay -S obsidian
 yay -S onlyoffice-bin
 yay -S opensnitch
+
+//docker startup
+sudo systemctl enable docker.service
+docker run -d --name broker apache/kafka:latest
+//kafka https://hub.docker.com/r/apache/kafka
 ```
