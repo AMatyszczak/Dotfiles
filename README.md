@@ -81,4 +81,10 @@ yay -S opensnitch
 sudo systemctl enable docker.service
 docker run -d --name broker apache/kafka:latest
 //kafka https://hub.docker.com/r/apache/kafka
+//AI
+sudo pacman -S nvidia-container-toolkit
+sudo nvidia-ctk runtime configure --runtime=docker  //for docker to use Nvidia GPU
+docker run -d -p 3000:8080 --gpus=all -v ollama:/root/.ollama -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
+
+
 ```
